@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.event-item-style {
+  list-style-type: none;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  width: 300px;
+  padding: 10px;
+}
+.event-item-button-style {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+.event-item-image-style {
+  width: 100%;
+}
+.event-item-name-style {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  color: #f8fafc;
+}
+.event-item-location-style {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  color: #f8fafc;
+}
